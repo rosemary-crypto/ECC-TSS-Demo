@@ -62,6 +62,7 @@ You can run this example as follows:
 
 ```bash
 python simple_ecc.py
+```
 
 ## Threshold Signature Scheme (TSS)
 
